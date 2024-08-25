@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibraryTecoc/1.0.0": {
+        "runtime": {
+          "LibraryTecoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryTecoc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

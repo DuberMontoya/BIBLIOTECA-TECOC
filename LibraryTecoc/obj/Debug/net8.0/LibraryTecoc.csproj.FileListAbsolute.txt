@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\bin\Debug\net8.0\LibraryTecoc.exe
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\bin\Debug\net8.0\LibraryTecoc.deps.json
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\bin\Debug\net8.0\LibraryTecoc.runtimeconfig.json
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\bin\Debug\net8.0\LibraryTecoc.dll
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\bin\Debug\net8.0\LibraryTecoc.pdb
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.dll
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\refint\LibraryTecoc.dll
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.pdb
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\LibraryTecoc.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\LibraryTecoc\LibraryTecoc\obj\Debug\net8.0\ref\LibraryTecoc.dll
