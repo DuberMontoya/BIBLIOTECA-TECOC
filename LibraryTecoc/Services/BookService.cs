@@ -33,7 +33,7 @@ namespace LibraryTecoc.Services
 
         public Book GetBookById(int bookId)
         {
-            return _books.FirstOrDefault(b => b.Id == bookId);
+            return _books.FirstOrDefault(b => b.Id == bookId); 
         }
 
         public List<Book> SearchBooks(string query)
